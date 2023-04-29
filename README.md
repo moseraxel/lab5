@@ -1,6 +1,5 @@
 # Computer Vision in Remote Sensing
 
-![](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
 Glacier and Snow Cover Mapping and Monitoring
 	Snow is an important water resource that sustains our ability to live on Earth. Due to glaciers and snow, large amounts of fresh water are stored at the top of mountain ranges and areas within the North. However, Anthropogenic climate change threatens glaciers existence. As temperatures rise, it’ll be increasingly difficult to contain the structure and rigidity of glaciers as they are subject to melting frequently. Fortunately, remote sensing techniques and object-oriented analysis can help quantify glacier and snowpack regression rates. For instance, researchers have created neural networks and deep learning techniques to analysis spatial and spectral imagery taken by MODIS and Landsat TM data. With the introduction of these new techniques of remote sensing, researchers have been able to determine what environmental factors determine the size of their study sites glaciers.
